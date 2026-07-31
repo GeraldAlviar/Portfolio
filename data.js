@@ -64,10 +64,7 @@ const siteData = {
     },
   ],
 
-  socials: [
-    { name: "LinkedIn", url: "https://linkedin.com/in/geraldalviar/" },
-    { name: "GitHub",   url: "https://github.com/username" },
-  ],
+
 
   memberships: [],
 
