@@ -64,7 +64,7 @@ const siteData = {
     },
   ],
 
-
+  socials: [],
 
   memberships: [],
 
