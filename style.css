@@ -685,17 +685,28 @@ blockquote cite {
   margin-bottom: 2px;
 }
 
+.rec-title {
+  display: block;
+  color: var(--text-muted);
+  font-size: 0.8rem;
+}
+
 .verify-link {
   display: inline-block;
-  margin-top: var(--space-xs);
-  font-size: 0.75rem;
+  margin-top: var(--space-sm);
+  padding: 0.25rem 0.6rem;
+  font-size: 0.7rem;
   color: var(--text-muted);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.08em;
+  transition: border-color 0.15s ease, color 0.15s ease;
 }
 
 .verify-link:hover {
   color: var(--text);
+  border-color: var(--border-strong);
   opacity: 1;
 }
 

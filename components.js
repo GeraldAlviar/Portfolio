@@ -197,7 +197,7 @@ const createRecommendationCard = (rec) => {
       <p class="rec-quote-text">"${rec.quote}"</p>
       <footer>
         <cite>${rec.author}</cite>
-        <span>${rec.title}</span>
+        <span class="rec-title">${rec.title}</span>
         ${verify}
       </footer>
     </blockquote>
