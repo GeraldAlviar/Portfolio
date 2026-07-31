@@ -31,12 +31,12 @@ const siteData = {
     description: `
       <p>Hi! I'm Gerald John Alviar, a Data Analyst and BI Specialist with a passion for turning raw data into actionable insights. I work across all phases of data analysis, from collection and preparation to advanced analytics and visualization.</p>
       <p>I'm a <strong>Microsoft 365 Certified Excel Expert</strong>, with deep experience in data modeling, analysis, and presentation. I also work extensively with Power BI (including Deneb / Vega-Lite), SQL (PostgreSQL, MySQL), Google Looker Studio, and Tableau.</p>
-      <p>I've spoken at Microsoft PH and AIM on DAX and Power BI, and offer tailored training in Excel, Power BI, and data visualization. I'm available for short-term projects and part-time longer-term engagements.</p>
+      <p>I've participated in DAXdakan community meetups at Microsoft PH and AIM — casual, in-person gatherings for Power BI and DAX practitioners — and offer tailored training in Excel, Power BI, and data visualization. I'm available for short-term projects and part-time longer-term engagements.</p>
     `,
     callout: {
-      label: "Speaking",
+      label: "Community",
       title: "DAXdakan — Microsoft PH & AIM",
-      description: "Community talks on DAX and Power BI delivered at Microsoft Philippines and the Asian Institute of Management. Full talk pages linked under Speaking.",
+      description: "Community meetups on DAX and Power BI held at Microsoft Philippines and the Asian Institute of Management. Full recap pages linked under Community.",
     },
   },
 
