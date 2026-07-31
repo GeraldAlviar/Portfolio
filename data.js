@@ -30,7 +30,7 @@ const siteData = {
   about: {
     description: `
       <p>Hi! I'm Gerald John Alviar, a Data Analyst and BI Specialist with a passion for turning raw data into actionable insights. I work across all phases of data analysis, from collection and preparation to advanced analytics and visualization.</p>
-      <p>I'm a <strong>Microsoft 365 Certified Excel Expert</strong>, with deep experience in data modeling, analysis, and presentation. I also work extensively with Power BI (including Deneb / Vega-Lite), SQL (PostgreSQL, MySQL), Google Looker Studio, and Tableau.</p>
+      <p>I'm a <strong>Microsoft 365 Certified Excel Expert</strong> with over 10 years' experience in data modelling, analysis, and presentation. I work extensively with Power BI (including Deneb / Vega-Lite), SQL (PostgreSQL, MySQL), Google Looker Studio, and Tableau, as well as Python and NoSQL systems such as MongoDB.</p>
       <p>I've participated in DAXdakan community meetups at Microsoft PH and AIM. A casual, in-person gatherings for Power BI and DAX practitioners and offer tailored training in Excel, Power BI, and data visualization. I'm available for short-term projects and part-time longer-term engagements.</p>
     `,
     callout: {
