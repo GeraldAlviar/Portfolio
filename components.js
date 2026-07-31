@@ -10,10 +10,7 @@ const createSidebar = (profile, contact, highlight, socials) => {
 
   const socialsBlock = socials && socials.length > 0
     ? `
-      <div class="sidebar-socials">
-        <h3>Connect</h3>
-        <ul>${socials.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${s.name}</a></li>`).join('')}</ul>
-      </div>
+
     `
     : '';
 
