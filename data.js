@@ -41,9 +41,8 @@ const siteData = {
   },
 
   experience: [
-    { title: "Data Analyst",                     company: "Current role (details on request)",  year: "2025" },
-    { title: "Data Operations Analyst",          company: "Serve First CX (UK)",                 year: "2023 – 2025" },
-    { title: "Junior Data Analyst",              company: "Innovatial Inc.",                     year: "2022" },
+    { title: "Data Operations Analyst",          company: "Serve First CX (UK)",                 year: "2023 – Current" },
+    { title: "Marketing Data Analyst",              company: "Innovatial Inc.",                     year: "2022" },
     { title: "B.Sc. Computer Science",           company: "University of Batangas",              year: "2022" },
     { title: "Data Analyst (Freelance)",         company: "Cellnet Cloud Technology Ltd.",       year: "2021" },
     { title: "Associate in Computer Technology", company: "Datamex Computer College",            year: "2012" },
