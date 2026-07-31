@@ -185,5 +185,30 @@ const siteData = {
     },
   ],
 
-  recommendations: [],
+  recommendations: [
+    {
+      quote: "Engaged Gerald to design and develop a custom Excel dashboard — including key metrics, visualizations, graphs, and filters — with two follow-up walkthrough sessions for feedback and refinement.",
+      author: "Luigi Roxas",
+      title: "Freelance client · Excel Dashboard Development · October 2025",
+      linkedinUrl: "",
+    },
+    {
+      quote: "I had the pleasure of working with Gerald, a highly skilled and Microsoft Certified Data Analyst, and I can confidently say he is an insightful and detail-oriented professional. Gerald has a solid understanding of data modeling, visualization, and business intelligence tools — and consistently transforms data sets into clear, actionable insights. His continuous desire for learning and growth truly sets him apart. What impressed me most was not just his technical ability, but also his collaborative approach and eagerness to learn. He's proactive, reliable, and always ready to go the extra mile to ensure accuracy and deliver value in every project.",
+      author: "Nik Bergs",
+      title: "Customer Success Executive @ Serve First CX · April 2025",
+      linkedinUrl: "",
+    },
+    {
+      quote: "I have had the pleasure of working with Gerald through Serve First, he is a team player, very adept at helping his colleagues and team mates how to get set up for business. When I had a problem with staging my machine, he was very patient, helpful and understanding, working out how to overcome all compliance issues.",
+      author: "Karon Kell",
+      title: "Specialist Wet Room Solutions, Serve First · February 2025",
+      linkedinUrl: "",
+    },
+    {
+      quote: "1-on-1 training on Google Sheets, Excel, and Power BI — delivered in both English and Tagalog. Sessions were clear, patient, and tailored to what I actually needed to learn.",
+      author: "Rani Amarnani",
+      title: "Private client · June 2026",
+      linkedinUrl: "",
+    },
+  ],
 };
