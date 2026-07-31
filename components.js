@@ -8,9 +8,14 @@ const createSidebar = (profile, contact, highlight, socials) => {
     ? `<a href="${highlight.url || '#'}" class="sidebar-badge"${highlight.url ? ' target="_blank" rel="noopener"' : ''}>${highlight.label}</a>`
     : '';
 
-  const socialLinks = socials.map(s =>
-    `<li><a href="${s.url}" target="_blank" rel="noopener">${s.name}</a></li>`
-  ).join('');
+  const socialsBlock = socials && socials.length > 0
+    ? `
+      <div class="sidebar-socials">
+        <h3>Connect</h3>
+        <ul>${socials.map(s => `<li><a href="${s.url}" target="_blank" rel="noopener">${s.name}</a></li>`).join('')}</ul>
+      </div>
+    `
+    : '';
 
   return `
     <div class="sidebar-card">
@@ -27,10 +32,7 @@ const createSidebar = (profile, contact, highlight, socials) => {
         <a href="mailto:${contact.email}" class="button">Email</a>
         <a href="${contact.linkedin}" class="button" target="_blank" rel="noopener">LinkedIn</a>
       </div>
-      <div class="sidebar-socials">
-        <h3>Connect</h3>
-        <ul>${socialLinks}</ul>
-      </div>
+      ${socialsBlock}
     </div>
   `;
 };
