@@ -55,7 +55,7 @@ const siteData = {
     },
     {
       title: "Data Modeling",
-      items: ["Power Query (M)", "Power Pivot", "DAX", "PostgreSQL", "MySQL"],
+      items: ["Power Query (M)", "Power Pivot", "DAX", "PostgreSQL", "MySQL", "Python", "MongoDB"],
     },
     {
       title: "Automation & Pipelines",
