@@ -187,7 +187,7 @@ const siteData = {
 
   recommendations: [
     {
-      quote: "Engaged Gerald to design and develop a custom Excel dashboard — including key metrics, visualizations, graphs, and filters — with two follow-up walkthrough sessions for feedback and refinement.",
+      quote: "Contracted Gerald to design and develop a custom Excel dashboard with key metrics, visualizations, graphs, and filters — including month-over-month and year-over-year comparisons across multiple dimensions. Two follow-up walkthrough sessions were included for feedback and refinement.",
       author: "Luigi Roxas",
       title: "Freelance client · Excel Dashboard Development · October 2025",
       linkedinUrl: "",
