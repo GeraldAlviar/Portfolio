@@ -82,7 +82,7 @@ const siteData = {
   projects: [
     {
       title: "2025 PBI Pinas Data Challenge",
-      tech: "Power BI · DAX · Deneb / Vega-Lite",
+      tech: "Power BI · Power Query · DAX · Deneb / Vega-Lite",
       desc: "Entry for the 2025 Power BI Pinas Data Challenge — a national community competition showcasing Philippine data storytelling.",
       url: "https://sites.google.com/view/gerald-alviar/personal-works/2025-pbi-pinas-data-challenge",
       linkText: "View on Google Sites",
@@ -103,7 +103,7 @@ const siteData = {
     },
     {
       title: "Human Resources Data Set",
-      tech: "Power BI · HR Analytics",
+      tech: "Power BI · Power Query · HR Analytics · API ",
       desc: "End-to-end HR analytics dashboard covering headcount, turnover, and workforce composition.",
       url: "https://sites.google.com/view/gerald-alviar/personal-works/human-resources-data-set",
       linkText: "View on Google Sites",
