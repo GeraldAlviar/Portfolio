@@ -102,8 +102,6 @@ body {
   height: 96px;
   border-radius: 50%;
   object-fit: cover;
-  border: 1px solid var(--border-strong);
-  filter: grayscale(100%);
 }
 
 .sidebar-name {
@@ -304,8 +302,6 @@ a:hover {
   height: 110px;
   border-radius: 50%;
   object-fit: cover;
-  border: 1px solid var(--border-strong);
-  filter: grayscale(100%);
 }
 
 .hero .name {
