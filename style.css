@@ -98,8 +98,8 @@ body {
 }
 
 .sidebar-avatar img {
-  width: 96px;
-  height: 96px;
+  width: 160px;
+  height: 160px;
   border-radius: 50%;
   object-fit: cover;
 }
