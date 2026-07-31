@@ -31,11 +31,11 @@ const siteData = {
     description: `
       <p>Hi! I'm Gerald John Alviar, a Data Analyst and BI Specialist with a passion for turning raw data into actionable insights. I work across all phases of data analysis, from collection and preparation to advanced analytics and visualization.</p>
       <p>I'm a <strong>Microsoft 365 Certified Excel Expert</strong>, with deep experience in data modeling, analysis, and presentation. I also work extensively with Power BI (including Deneb / Vega-Lite), SQL (PostgreSQL, MySQL), Google Looker Studio, and Tableau.</p>
-      <p>I've participated in DAXdakan community meetups at Microsoft PH and AIM — casual, in-person gatherings for Power BI and DAX practitioners — and offer tailored training in Excel, Power BI, and data visualization. I'm available for short-term projects and part-time longer-term engagements.</p>
+      <p>I've participated in DAXdakan community meetups at Microsoft PH and AIM. A casual, in-person gatherings for Power BI and DAX practitioners and offer tailored training in Excel, Power BI, and data visualization. I'm available for short-term projects and part-time longer-term engagements.</p>
     `,
     callout: {
       label: "Community",
-      title: "DAXdakan — Microsoft PH & AIM",
+      title: "DAXdakan @ Microsoft PH & AIM",
       description: "Community meetups on DAX and Power BI held at Microsoft Philippines and the Asian Institute of Management. Full recap pages linked under Community.",
     },
   },
@@ -83,12 +83,12 @@ const siteData = {
     {
       title: "2025 PBI Pinas Data Challenge",
       tech: "Power BI · Power Query · DAX · Deneb / Vega-Lite",
-      desc: "Entry for the 2025 Power BI Pinas Data Challenge — a national community competition showcasing Philippine data storytelling.",
+      desc: "Entry for the 2025 Power BI Pinas Data Challenge: a national community competition showcasing Philippine data storytelling.",
       url: "https://sites.google.com/view/gerald-alviar/personal-works/2025-pbi-pinas-data-challenge",
       linkText: "View on Google Sites",
     },
     {
-      title: "MySQL Masterclass — Capstone",
+      title: "MySQL Masterclass (Capstone)",
       tech: "MySQL · SQL",
       desc: "Capstone project completing the MySQL Masterclass curriculum. Covers advanced query design, joins, and data modeling.",
       url: "https://sites.google.com/view/gerald-alviar/capstones-masterclass/capstone-mysql-masterclass",
@@ -111,7 +111,7 @@ const siteData = {
     {
       title: "MySQL Masterclass",
       tech: "MySQL · Curriculum",
-      desc: "Complete MySQL Masterclass exercises and notes — foundational and advanced SQL patterns.",
+      desc: "Complete MySQL Masterclass exercises and notes: foundational and advanced SQL patterns.",
       url: "https://sites.google.com/view/gerald-alviar/capstones-masterclass/mysql-masterclass",
       linkText: "View on Google Sites",
     },
@@ -125,14 +125,14 @@ const siteData = {
     {
       title: "SQL Murder Mystery",
       tech: "SQL · Problem Solving",
-      desc: "Community SQL challenge — investigating a fictional murder case using SQL queries and deductive reasoning.",
+      desc: "Community SQL challenge: investigating a fictional murder case using SQL queries and deductive reasoning.",
       url: "https://sites.google.com/view/gerald-alviar/capstones-masterclass/2024MurderMystery",
       linkText: "View on Google Sites",
     },
     {
       title: "Power BI Overview",
       tech: "Power BI · Training",
-      desc: "Overview walkthrough of Power BI's capabilities — reporting, modeling, and visualization fundamentals.",
+      desc: "Overview walkthrough of Power BI's capabilities such as reporting, modeling, and visualization fundamentals.",
       url: "https://sites.google.com/view/gerald-alviar/personal-works/power-bi-overview",
       linkText: "View on Google Sites",
     },
@@ -189,7 +189,7 @@ const siteData = {
       linkedinUrl: "https://www.linkedin.com/in/luigiroxas/",
     },
     {
-      quote: "I had the pleasure of working with Gerald, a highly skilled and Microsoft Certified Data Analyst, and I can confidently say he is an insightful and detail-oriented professional. Gerald has a solid understanding of data modeling, visualization, and business intelligence tools — and consistently transforms data sets into clear, actionable insights. His continuous desire for learning and growth truly sets him apart. What impressed me most was not just his technical ability, but also his collaborative approach and eagerness to learn. He's proactive, reliable, and always ready to go the extra mile to ensure accuracy and deliver value in every project.",
+      quote: "I had the pleasure of working with Gerald, a highly skilled and Microsoft Certified Data Analyst, and I can confidently say he is an insightful and detail-oriented professional. Gerald has a solid understanding of data modeling, visualization, and business intelligence tools, and consistently transforms data sets into clear, actionable insights. His continuous desire for learning and growth truly sets him apart. What impressed me most was not just his technical ability, but also his collaborative approach and eagerness to learn. He's proactive, reliable, and always ready to go the extra mile to ensure accuracy and deliver value in every project.",
       author: "Nik Bergs",
       title: "Customer Success Executive @ Serve First CX · April 2025",
       linkedinUrl: "https://www.linkedin.com/in/nik-bergs/",
