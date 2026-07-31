@@ -11,7 +11,7 @@ const siteData = {
     tagline: "Contemplative analyst, inspired by logic and meaning.",
     title: "Data Analyst / BI Developer",
     location: "Philippines · Open to remote (UK/EU hours)",
-    avatar: "https://yourusername.github.io/images/headshot.jpg?Text=GA",
+    avatar: "https://yourusername.github.io/images/Headshot.png?Text=GA",
   },
 
   contact: {
