@@ -8,7 +8,7 @@
 const siteData = {
   profile: {
     name: "Gerald John Alviar",
-    tagline: "Contemplative analyst, inspired by logic and meaning.",
+    tagline: "𝘿𝙖𝙩𝙖 𝙞𝙨 𝙢𝙮 𝙗𝙧𝙚𝙖𝙙 𝙖𝙣𝙙 𝙗𝙪𝙩𝙩𝙚𝙧.",
     title: "Data Analyst / BI Developer",
     location: "Philippines · Open to remote (UK/EU hours)",
     avatar: "images/headshot.png",
