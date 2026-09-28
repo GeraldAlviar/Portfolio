@@ -172,10 +172,12 @@ body {
   border-right: 1px solid rgba(255, 255, 255, 0.15);
 }
 
-.cred-btn .cred-icon svg {
+.cred-btn .cred-icon svg,
+.cred-btn .cred-icon .cred-icon-img {
   width: 24px;
   height: 24px;
   display: block;
+  object-fit: contain;
 }
 
 .cred-btn .cred-label {
