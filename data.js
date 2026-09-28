@@ -38,7 +38,7 @@ const siteData = {
   ],
 
   highlight: {
-    label: "Microsoft 365 Certified Excel Expert",
+    label: "Microsoft 365 Certified Excel Expert | MO-210 & 201",
     url: "https://www.credly.com/badges/45a2d254-91e0-42cf-aa93-9fe9fd519bef/public_url",
   },
 
