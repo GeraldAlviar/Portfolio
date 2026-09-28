@@ -8,7 +8,7 @@
 const siteData = {
   profile: {
     name: "Gerald John Alviar",
-    tagline: "𝘿𝙖𝙩𝙖 𝙞𝙨 𝙢𝙮 𝙗𝙧𝙚𝙖𝙙 𝙖𝙣𝙙 𝙗𝙪𝙩𝙩𝙚𝙧.",
+    tagline: "Data is my Bread and Butter.",
     title: "Data Analyst / BI Developer",
     location: "Philippines · Open to remote (UK/EU hours)",
     avatar: "images/headshot.png",
@@ -26,12 +26,12 @@ const siteData = {
   // Each: label (text), url (verification link), theme ('fabric' | 'excel' | custom)
   credentials: [
     {
-      label: "DP-600 | Microsoft Certified<br>Fabric Analytics Engineer",
+      label: "DP-600 • Microsoft Certified<br>Fabric Analytics Engineer",
       url: "https://learn.microsoft.com/api/credentials/share/en-us/GeraldJohnAlviar-8300/AA5F506CF6A3F8E1?sharingId=5A152495BDDA26A0",
       theme: "fabric",
     },
     {
-      label: "MO-210 & 211 | Microsoft Certified <br> MS 365 Excel Expert",
+      label: "MO-210 & 211 • Microsoft Certified <br> Office 365 Excel Expert",
       url: "https://www.credly.com/badges/45a2d254-91e0-42cf-aa93-9fe9fd519bef/public_url",
       theme: "excel",
     },
