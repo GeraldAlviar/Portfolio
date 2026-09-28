@@ -26,7 +26,7 @@ const siteData = {
   // Each: label (text), url (verification link), theme ('fabric' | 'excel' | custom)
   credentials: [
     {
-      label: "DP-600 · Fabric Analytics Engineer",
+      label: "Microsoft Certified: Fabric Analytics Engineer Associate | DP-600",
       url: "https://learn.microsoft.com/api/credentials/share/en-us/GeraldJohnAlviar-8300/AA5F506CF6A3F8E1?sharingId=5A152495BDDA26A0",
       theme: "fabric",
     },
