@@ -193,11 +193,23 @@ body {
   border: 1px solid rgba(255, 255, 255, 0.15);
 }
 
+/* Fabric icon panel — darker chip so the gradient logo has contrast */
+.cred-fabric .cred-icon {
+  background: rgba(0, 0, 0, 0.35);
+  border-right-color: rgba(255, 255, 255, 0.2);
+}
+
 /* Microsoft Excel — signature product green */
 .cred-excel {
   background: #217346;
   color: #ffffff;
   border: 1px solid #185a37;
+}
+
+/* Excel icon panel — slightly lighter tint (Excel logo already has white contrast) */
+.cred-excel .cred-icon {
+  background: rgba(255, 255, 255, 0.15);
+  border-right-color: rgba(255, 255, 255, 0.2);
 }
 
 /* Fallback theme */
