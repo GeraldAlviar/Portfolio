@@ -199,6 +199,19 @@ body {
   border-right-color: rgba(255, 255, 255, 0.2);
 }
 
+/* Microsoft Power BI — signature yellow with darker amber gradient depth */
+.cred-powerbi {
+  background: linear-gradient(135deg, #F2C811 0%, #E8A317 100%);
+  color: #1a1a1a;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+}
+
+/* Power BI icon panel — darker chip for logo contrast against the yellow background */
+.cred-powerbi .cred-icon {
+  background: rgba(0, 0, 0, 0.08);
+  border-right-color: rgba(0, 0, 0, 0.15);
+}
+
 /* Microsoft Excel — signature product green */
 .cred-excel {
   background: #217346;
