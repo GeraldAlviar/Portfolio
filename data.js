@@ -31,6 +31,11 @@ const siteData = {
       theme: "fabric",
     },
     {
+      label: "PL-300 • Microsoft Certified<br>Power BI Data Analyst",
+      url: "https://learn.microsoft.com/api/credentials/share/en-us/GeraldJohnAlviar-8300/6ADDAF919FC28D38?sharingId=5A152495BDDA26A0",
+      theme: "powerbi",
+    },
+    {
       label: "MO-210 & 211 • Microsoft Certified <br> Office 365 Excel Expert",
       url: "https://www.credly.com/badges/45a2d254-91e0-42cf-aa93-9fe9fd519bef/public_url",
       theme: "excel",
@@ -175,6 +180,12 @@ const siteData = {
       issuer: "Microsoft",
       desc: "Associate-level certification covering data preparation, semantic model design, DAX, and analytics deployment on Microsoft Fabric.",
       url: "https://learn.microsoft.com/api/credentials/share/en-us/GeraldJohnAlviar-8300/AA5F506CF6A3F8E1?sharingId=5A152495BDDA26A0",
+    },
+    {
+      title: "Power BI Data Analyst Associate (PL-300)",
+      issuer: "Microsoft",
+      desc: "Associate-level certification covering data preparation, modelling, visualisation, and analysis in Power BI.",
+      url: "https://learn.microsoft.com/api/credentials/share/en-us/GeraldJohnAlviar-8300/6ADDAF919FC28D38?sharingId=5A152495BDDA26A0",
     },
     {
       title: "Microsoft Excel Expert (Microsoft 365 Apps)",
