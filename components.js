@@ -7,7 +7,7 @@
 const BRAND_ICONS = {
   fabric: "images/fabric.svg",
   powerbi: "images/powerbi.svg",
-  excel: "images/excel.svg"
+  excel: "images/excel.svg",
   
   default: null,   // renders a star fallback in this case
 };
