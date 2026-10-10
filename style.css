@@ -174,8 +174,12 @@ body {
 
 .cred-btn .cred-icon svg,
 .cred-btn .cred-icon .cred-icon-img {
-  width: 24px;
-  height: 24px;
+  width: 24px !important;
+  height: 24px !important;
+  min-width: 24px;
+  min-height: 24px;
+  max-width: 24px;
+  max-height: 24px;
   display: block;
   object-fit: contain;
 }
@@ -206,10 +210,10 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.15);
 }
 
-/* Power BI icon panel — darker chip for logo contrast against the yellow background */
+/* Power BI icon panel — dark chip so the yellow logo has strong contrast */
 .cred-powerbi .cred-icon {
-  background: rgba(0, 0, 0, 0.08);
-  border-right-color: rgba(0, 0, 0, 0.15);
+  background: rgba(0, 0, 0, 0.45);
+  border-right-color: rgba(0, 0, 0, 0.3);
 }
 
 /* Microsoft Excel — signature product green */
