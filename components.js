@@ -6,7 +6,9 @@
 // Branded product logos — image paths in the repo. Same size via CSS.
 const BRAND_ICONS = {
   fabric: "images/fabric.svg",
-  excel: "images/excel.svg",
+  powerbi: "images/powerbi.svg",
+  excel: "images/excel.svg"
+  
   default: null,   // renders a star fallback in this case
 };
 
