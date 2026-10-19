@@ -18,7 +18,7 @@ const siteData = {
     phone: "+639760560181",
     email: "geraldino619@gmail.com",
     linkedin: "https://www.linkedin.com/in/geraldalviar/",
-    resumeUrl: "https://drive.google.com/file/d/1Sv0SXnFJ7SoFpT9qWP0dHBLozi0VpGrQ/view?usp=sharing",
+    resumeUrl: "assets/CV.pdf",
     scheduleUrl: "",
   },
 
@@ -91,7 +91,7 @@ const siteData = {
     { name: "Email",    value: "geraldino619@gmail.com", url: "mailto:geraldino619@gmail.com" },
     { name: "Phone",    value: "+63 976 056 0181",       url: "tel:+639760560181" },
     { name: "LinkedIn", value: "Connect on LinkedIn",    url: "https://linkedin.com/in/geraldalviar/" },
-    { name: "Resume",   value: "View on Google Drive",   url: "https://drive.google.com/file/d/1Sv0SXnFJ7SoFpT9qWP0dHBLozi0VpGrQ/view?usp=sharing" },
+    { name: "Resume",   value: "View CV",   url: "assets/CV.pdf" },
   ],
 
   footer: {
